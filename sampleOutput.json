@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Jem Aswad",
+    "title": "Rihanna Drops ‘Lift Me Up,’ Her First Single in Six Years, From ‘Black Panther: Wakanda Forever’ - Variety",
+    "description": "Rihanna dropped her first single in six years on Thursday night: “Lift Me Up,” the first track to emerge from Marvel’s blockbuster sequel “Black Panther: Wakanda Forever.” The song, a tribute to the life and legacy of Chadwick Boseman, was written by Nigerian…",
+    "url": "https://variety.com/2022/music/news/rihanna-lift-me-up-song-black-panther-wakanda-forever-1235416665/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/10/albumcovertreatment-14.jpg?w=1000&h=562&crop=1",
+    "publishedAt": "2022-10-28T04:03:00Z",
+    "content": "Rihanna dropped her first single in six years on Thursday night: “Lift Me Up,” the first track to emerge from Marvel’s blockbuster sequel “Black Panther: Wakanda Forever.”\r\nThe song, a tribute to the… [+2398 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MLB.com"
+    },
+    "author": "Brian McTaggart",
+    "title": "Justin Verlander to start World Series Game 1 - MLB.com",
+    "description": "HOUSTON -- He has won the American League MVP and Rookie of the Year Awards, was the MVP of the 2017 AL Championship Series, has thrown three no-hitters and will likely win his third AL Cy Young Award later this year. For a pitcher that’s done it all in his",
+    "url": "https://www.mlb.com/news/justin-verlander-to-start-world-series-game-1",
+    "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/quj6w8zljjiaw8t3jdel.jpg",
+    "publishedAt": "2022-10-28T03:47:35Z",
+    "content": "HOUSTON -- He has won the American League MVP and Rookie of the Year Awards, was the MVP of the 2017 AL Championship Series, has thrown three no-hitters and will likely win his third AL Cy Young Awar… [+3864 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Scientists Astonished by Strange Material That Can Be Made Like Plastic but Conducts Like Metal - SciTechDaily",
+    "description": "‘Like conductive Play-Doh’: breakthrough could point way to a new class of materials for electronic devices. University of Chicago scientists have discovered a way to create a material that can be made like a plastic, but conducts electricity more like a meta…",
+    "url": "https://scitechdaily.com/scientists-astonished-by-strange-material-that-can-be-made-like-plastic-but-conducts-like-metal/",
+    "urlToImage": "https://scitechdaily.com/images/Plastic-Conducts-Like-Metal.jpg",
+    "publishedAt": "2022-10-28T03:19:18Z",
+    "content": "ByLouise Lerner, University of ChicagoOctober 27, 2022\r\nA group of scientists at the University of Chicago has discovered a way to create a material in which the molecular fragments are jumbled and d… [+7829 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Jamison Hensley, Jenna Laine",
+    "title": "Lamar Jackson, Ravens turn things around in second half at Bucs - ESPN",
+    "description": "Jackson's perfect second-half passing helped spark the Ravens to their first back-to-back wins of the season.",
+    "url": "https://www.espn.com/nfl/story/_/id/34893499/ravens-turn-second-half-win-buccaneers",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1028%2Fr1082382_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-10-28T02:29:41Z",
+    "content": "TAMPA, Fla. -- After struggling in the first half, quarterback Lamar Jackson and the Baltimore Ravens were able to put things together offensively, even after losing tight end Mark Andrews to a shoul… [+4924 chars]"
+    }
+    ]
+    }
